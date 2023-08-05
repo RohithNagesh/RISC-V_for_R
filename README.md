@@ -3,7 +3,7 @@ The RISC-V instruction set architecture (ISA) is an open-source and royalty-free
 
 RV32I can be divided into six basic instruction formats. R-type instructions for register-register operations, an I-type instructions for immediate and load operations, and S-type instructions for store operations. B-type instructions for conditional branch operations. U-type instructions for long immediate and J-type instructions for unconditional jumps.
 
-In this repository we write a systemverilog code for RISC-V 32bit proceessor which can execute only R-type instruction. And also a textbench to verify the processor code
+In this repository we write a systemverilog code for RISC-V 32bit processor which can execute only R-type instruction. And also a textbench to verify the processor code
 
 # RISC-V R-type instruction format
 
